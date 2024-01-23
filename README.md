@@ -5,6 +5,14 @@
 - Tailwind CSS
 - React.js
 
+
+
+Uploading Sequence 01_1.mp4…
+
+
+
+
+
 ## <a name="features">🔋 Features</a>
 
 👉 **Maximizing Tailwind CSS**: Discover tips and tricks to make the most out of Tailwind CSS.
