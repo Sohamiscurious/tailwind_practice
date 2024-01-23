@@ -7,7 +7,11 @@
 
 
 
-Uploading Sequence 01_1.mp4…
+
+https://github.com/Sohamiscurious/tailwind_practice/assets/118915785/913120d8-c1bf-4a04-b9e2-d109d31746b2
+
+
+
 
 
 
