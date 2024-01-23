@@ -1,0 +1,26 @@
+<main class="p-5">
+  <h1 class="text-center text-lg font-bold text-green-400">Hello World</h1>
+
+  <div class="my-4 h-10 w-full rounded-md border-2 border-violet-600 bg-violet-200 p-2">
+    <p class="text-center font-mono font-extrabold">A div</p>
+  </div>
+
+  <!-- Layout fixed means stays at smae positon irrespective of toher elements
+  flex justify-centre items come to the middle, justify-between even spaces out the elements-->
+  <div class="sticky top-0 h-10 w-10 bg-red-500"></div> 
+
+  <div class="flex justify-center space-x-2">
+    <div class="h-16 w-16 rounded-full bg-blue-500"></div>
+    <div class="h-16 w-16 rounded-full bg-blue-500"></div>
+    <div class="h-16 w-16 rounded-full bg-blue-500"></div>
+    <div class="h-16 w-16 rounded-full bg-blue-500"></div>
+    <div class="h-16 w-16 rounded-full bg-blue-500"></div>
+
+  </div>
+  <!-- Basically grid is the number of divs in that parent element gap-2 is spcae between them -->
+  <div class="mt-3 grid grid-cols-3 gap-2">
+    <div class="h-12 bg-violet-500"></div>
+    <div class="h-12 bg-violet-500"></div>
+    <div class="h-12 bg-violet-500"></div>
+  </div>
+</main>
