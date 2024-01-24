@@ -50,14 +50,6 @@ while building a beautiful Nike Website with a,
 and many more, including code architecture and reusability 
 
 
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/nike_landing_page.git
-cd nike_landing_page
-```
-
 **Installation**
 
 Install the project dependencies using npm:
